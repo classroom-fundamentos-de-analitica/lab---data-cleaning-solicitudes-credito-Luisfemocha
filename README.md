@@ -2,3 +2,7 @@
 # Laboratorio
 
 Limpieza de datos
+
+- Realizado por: Luis Felipe Moreno Chamorro
+- Materia: Fundamentos de Analitica
+- Universidad Nacional de Colombia sede Medellin
